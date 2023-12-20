@@ -9,3 +9,6 @@ For people who already have a trade license, the databox is registered automatic
 Login to service "Datová schránka" with [username and password](https://www.mojedatovaschranka.cz/as/login?type=captcha&uri=https%3A%2F%2Fwww.mojedatovaschranka.cz%2Fportal%2FISDS%2F)
 ## Open data
 Czech National open data catalog: [Open data portal](https://data.gov.cz/english/)
+## Tails
+[Tails gitlab](https://gitlab.tails.boum.org/tails/tails), [latest checksum](https://tails.net/install/v2/Tails/amd64/stable/latest.json), [homepage](https://tails.net/)
+
